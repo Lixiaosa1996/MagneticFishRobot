@@ -1,5 +1,6 @@
 # MagneticFishRobot
-Software and hardware materials for Soft Magnetic Swimming Robot
+Software and hardware materials for Soft Magnetic Swimming Robot  
+(For the manuscript "Bio-inspired Soft Magnetic Swimming Robot for Flexible Motions" submitted to ICRA 2025)
 
 01_Robot fabrication: the structure design of soft magnetic fish-shape robot (Solidworks 2021).  
 02_On_robot circuit: the sch and pcb file of the on-robot circuit for sensing and wireless communication (VS Code).
